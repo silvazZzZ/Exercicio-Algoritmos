@@ -11,6 +11,7 @@ Este é um projeto simples em Java para registrar alunos, suas notas, calcular a
 - Exibição da situação:
   - ✅ Aprovado (média ≥ 7)
   - ❌ Reprovado (média < 7)
+- Exibe o aluno com a maior média
 
 ---
 
@@ -50,3 +51,33 @@ git clone https://github.com/silvazZzZ/Exercicio-Algoritmos.git
 cd Exercicio-Algoritmos
 ```
 Ou baixe o ZIP diretamente pelo GitHub.
+
+# 📊 Saída do programa
+```Quantos alunos deseja cadastrar? (max 5): 2
+
+Aluno 1
+Nome: João
+Nota 1: 7,5
+Nota 2: 6,0
+Nota 3: 8,0
+
+Aluno 2
+Nome: Maria
+Nota 1: 5
+Nota 2: 6
+Nota 3: 5,5
+
+--- RESULTADO ---
+
+Nome: João
+Notas: 7.5, 6.0, 8.0
+Média: 7.166666666666667
+Situação: Aprovado
+
+Nome: Maria
+Notas: 5.0, 6.0, 5.5
+Média: 5.5
+Situação: Reprovado
+
+Maior média: João (7.166666666666667)
+```
