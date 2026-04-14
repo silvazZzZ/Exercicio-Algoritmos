@@ -1,6 +1,7 @@
 # Sistema de Média de Alunos
 
 ## 🧠 Como funciona
+
 Este é um projeto simples em Java para registrar alunos, suas notas, calcular as médias e definir se foram aprovados ou reprovados.
 ---
 
