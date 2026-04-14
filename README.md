@@ -43,7 +43,7 @@ Para verificar se está instalado, execute:
 ```bash
 java -version
 ````
-###Baixando o projeto
+### Baixando o projeto
 
 Clone o repositório:
 ```
